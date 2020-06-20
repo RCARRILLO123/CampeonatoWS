@@ -1,0 +1,6 @@
+C:\Rcarrillo\Fuentes 08-04-2019\Rcarrillo\Sist.Distribuidos\WSCampeonato\bin\WSCampeonato.dll.config
+C:\Rcarrillo\Fuentes 08-04-2019\Rcarrillo\Sist.Distribuidos\WSCampeonato\bin\WSCampeonato.dll
+C:\Rcarrillo\Fuentes 08-04-2019\Rcarrillo\Sist.Distribuidos\WSCampeonato\bin\WSCampeonato.pdb
+C:\Rcarrillo\Fuentes 08-04-2019\Rcarrillo\Sist.Distribuidos\WSCampeonato\obj\Debug\WSCampeonato.csproj.CoreCompileInputs.cache
+C:\Rcarrillo\Fuentes 08-04-2019\Rcarrillo\Sist.Distribuidos\WSCampeonato\obj\Debug\WSCampeonato.dll
+C:\Rcarrillo\Fuentes 08-04-2019\Rcarrillo\Sist.Distribuidos\WSCampeonato\obj\Debug\WSCampeonato.pdb
